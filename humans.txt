@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- sachin pal -- <twitter>
 #this is human read file
 # THANKS
 

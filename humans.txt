@@ -1,7 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+<<<<<<< HEAD
 # TEAM ............
+=======
+# TEAM hi sachin pal is here
+>>>>>>> mybranch
 
     <name> -- sachin pal -- <twitter>
 #this is human read file
